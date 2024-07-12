@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coderatg
 - 👀 I’m interested in: Coding, Advanced computer technologies. 
-- 🌱 I’m currently learning: Python, SQL,HTML CSS.
+- 🌱 I’m currently learning: Python, SQL,HTML,CSS.
 - 💞️ I’m looking to collaborate on Basic programing coding.
 - 📫 How to reach me emial me at ayushyadav@instgmail.com.
 - 😄 Pronouns: He/Hi,
