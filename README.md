@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @coderatg
+- 👋 Hi, I’m @Ayush
 - 👀 I’m interested in: Coding, Advanced computer technologies. 
 - 🌱 I’m currently learning: Python, SQL,HTML,CSS.
 - 💞️ I’m looking to collaborate on Basic programing coding.
